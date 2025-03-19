@@ -1,16 +1,16 @@
 Nesse projeto foi utilizado um DataFrame fictício de uma loja, contendo dados de todos os clientes. Nosso objetivo era entender qual era o público-alvo do estabelecimento e, a partir disso, gerar diferentes tipos de cartões de fidelidade: Comum, Médio e Premium.
 
 CRIAÇÃO: 
-1- Entendemos qual era o número de homens e mulheres clientes da loja.
-2- Analisamos a idade do público para identificar a faixa etária predominante.
-3- Identificamos a profissão de todos os clientes para entender em que áreas trabalhavam.
-4- Comparamos a profissão com a renda anual.
-5- Calculamos o custo por pessoa em uma família, considerando a relação entre renda anual e número de integrantes.
-6- Analisamos como os anos de experiência influenciam no salário anual de cada indivíduo.
-7- Estudamos como o salário de cada cliente influencia no seu score de compras na loja. A partir disso, conseguimos entender qual era o nosso público-alvo.
-8- Identificamos a idade com maior score dentro da loja para determinar a faixa etária mais engajada.
-9- Analisamos quais profissões apresentavam os maiores scores na loja para entender quais áreas traziam maior retorno.
-10- Criamos um cluster separando os clientes de acordo com seu salário e score de compras na loja, possibilitando a disponibilização dos cartões de fidelidade.
+- Entendemos qual era o número de homens e mulheres clientes da loja.
+- Analisamos a idade do público para identificar a faixa etária predominante.
+- Identificamos a profissão de todos os clientes para entender em que áreas trabalhavam.
+- Comparamos a profissão com a renda anual.
+- Calculamos o custo por pessoa em uma família, considerando a relação entre renda anual e número de integrantes.
+- Analisamos como os anos de experiência influenciam no salário anual de cada indivíduo.
+- Estudamos como o salário de cada cliente influencia no seu score de compras na loja. A partir disso, conseguimos entender qual era o nosso público-alvo.
+- Identificamos a idade com maior score dentro da loja para determinar a faixa etária mais engajada.
+- Analisamos quais profissões apresentavam os maiores scores na loja para entender quais áreas traziam maior retorno.
+  - Criamos um cluster separando os clientes de acordo com seu salário e score de compras na loja, possibilitando a disponibilização dos cartões de fidelidade.
 
 TECNOLOGIAS UTILIZADAS:
 -Python
